@@ -27,7 +27,7 @@ public class OpenApiConfig {
 		Contact contact = new Contact();
 		contact.setEmail("viliusm@outlook.com");
 		contact.setName("Mindaugas");
-		contact.setUrl("https://github.com/SunMind/TripAdvisor");
+		contact.setUrl("https://github.com/SunMind/TripAdvisor/tree/master");
 
 		Info info = new Info().title("Trip Advisor API").version("1.0").contact(contact).description(
 				"This API exposes endpoints to manage items for trip and best possible backpack recommendation.");
