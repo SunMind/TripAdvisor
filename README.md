@@ -1,7 +1,7 @@
-# Spring Boot H2 Database CRUD: Building Rest API with Spring Data JPA
+# Trip Advisor restful application with a purpose to get a list of items needed for any kind of trip 
 
 
- Trip Advisor restful application with a purpose to get a list of items needed for any kind of trip.
+Spring Boot H2 Database CRUD: Building Rest API with Spring Data JPA.
 
 Used technologies such as:
 - Spring Boot v3
