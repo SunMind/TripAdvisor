@@ -22,7 +22,7 @@ public class OpenApiConfig {
 	public OpenAPI myOpenAPI() {
 		Server devServer = new Server();
 		devServer.setUrl(devUrl);
-		devServer.setDescription("Server URL in Development environment");
+		devServer.setDescription("Server URL in DevelopmenT environment");
 
 		Contact contact = new Contact();
 		contact.setEmail("viliusm@outlook.com");
